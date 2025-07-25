@@ -1,0 +1,22 @@
+BLACKHAVEN INTUITIVE TOOLING INTERFACE – TERMS OF USE
+WARNING: THIS IS NOT A TOY. USE RESPONSIBLY OR FACE THE CONSEQUENCES.
+
+By accessing or using the BLACKHAVEN Intuitive Tooling Interface (hereafter "BLACKHAVEN" or "the Platform"), you agree to the following terms:
+
+STRICTLY ETHICAL & LEGAL USE – BLACKHAVEN is a penetration testing and security research platform. It is not intended for unauthorized hacking, exploitation, or any activity that violates laws or ethical boundaries. If you use it for stupid/illegal shit, that’s on you.
+
+AUTHORIZED TESTING ONLY – These tools are weapons. You don’t fire them without a valid target authorization. If you’re testing a system, you must have explicit written permission from the owner. No exceptions.
+
+NO BACKDOORS, NO MALICIOUS USE – BLACKHAVEN is designed for defensive security, red teaming, and ethical pentesting. If we catch you using it for black-hat activities, we will report you, and you will regret it.
+
+NO WARRANTY – USE AT YOUR OWN RISK – The Platform is provided "as-is" with no guarantees. We’re not liable if you break something, get caught, or end up in handcuffs because you ignored this warning.
+
+COMPLIANCE WITH CONTRACTS & LAWS – If your engagement requires NDAs, rules of engagement, or legal agreements, follow them. BLACKHAVEN does not replace common sense.
+
+By proceeding, you confirm:
+✅ You are a security professional, researcher, or authorized tester.
+✅ You understand that misuse = legal trouble.
+✅ You accept full responsibility for your actions.
+
+If you disagree, CLOSE THE TOOL NOW.
+Otherwise, proceed with caution.
