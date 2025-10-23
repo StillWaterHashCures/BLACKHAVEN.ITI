@@ -7,7 +7,18 @@
 
 ## 📋 Overview
 
-The **BlackHaven Framework** is an Intuitive Tooling Interface designed to enhance penetration testing workflows through improved accessibility and streamlined tool integration. This interface provides a unified platform for security professionals to efficiently use the most well-known tools & scripts in the industry.
+The **BlackHaven Framework** is an Intuitive Tooling Interface designed to enhance penetration testing workflows through improved accessibility and streamlined tool integration. This interface provides a unified platform for existing red-team cybersecurity tools to create a efficient interface that bundles the most well-known tools & scripts in the industry.
+
+So first and foremost i want to shoutout to the original creators and official owners of these tools:
+- **Feroxbuster** Created by epi052 https://github.com/epi052/feroxbuster
+- **Nmap** Created by Gordon Lyon (Fyodor) https://nmap.org/
+- **Python-NMAP** Created by Alexandre Norman https://github.com/nmmapper/python3-nmap
+- **enum4linux** Created by Mark Lowe https://github.com/CiscoCXSecurity/enum4linux
+- **enum4linux-ng** Created by cddmp https://github.com/cddmp/enum4linux-ng
+- **Netcat** Originally created by Hobbit https://nc110.sourceforge.io/
+- **Samba Client** Created by the Samba Team https://www.samba.org/
+- **LDAP Utils** Created by the OpenLDAP Project https://www.openldap.org/
+- **NBTscan** Created by Alla Bezroutchko http://www.unixwiz.net/tools/nbtscan.html
 
 ## ⚠️ Important Usage Note
 
